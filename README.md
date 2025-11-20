@@ -3,4 +3,7 @@ Built a custom Splunk dashboard and correlation rules to detect brute-force and 
 
 ---
 
-## 🧠 About the Project
+## 🧠 Overview
+
+
+## 🚀 Features
