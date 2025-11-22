@@ -4,6 +4,7 @@ Built a custom Splunk dashboard and correlation rules to detect brute-force and 
 ---
 
 ## 🧠 Overview
+Doing this with a free version of Splunk
 
 
 ## 🚀 Features
