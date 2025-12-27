@@ -4,7 +4,7 @@ Built a custom Splunk dashboard and correlation rules to detect brute-force and 
 ---
 
 ## 🧠 Overview
-Doing this with a free version of Splunk. I initiated some scans on my own system and tried to spot them on the splunk interface.
+Doing this with a free version of Splunk. I initiated some scans on my own system and tried to spot them on the splunk interface. Forwarded the logs using Sysmon and through the Universal Forwarder
 
 
 ## 🚀 Features
